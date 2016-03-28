@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/ReversiIcon.png</file>
+        <file>icon/cursor_white.bmp</file>
+        <file>icon/cursor_black.bmp</file>
+    </qresource>
+</RCC>
